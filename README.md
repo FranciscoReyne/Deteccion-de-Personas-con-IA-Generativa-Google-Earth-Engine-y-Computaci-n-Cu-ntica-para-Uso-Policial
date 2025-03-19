@@ -1,0 +1,1 @@
+# Deteccion-de-Personas-con-IA-Generativa-Google-Earth-Engine-y-Computaci-n-Cu-ntica-para-Uso-Policial
