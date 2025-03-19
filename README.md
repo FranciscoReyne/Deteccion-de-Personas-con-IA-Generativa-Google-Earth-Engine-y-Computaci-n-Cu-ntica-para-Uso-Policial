@@ -1,7 +1,7 @@
 # **Sistema de Detección de Personas con IA Generativa, Google Earth Engine y Computación Cuántica para Uso Policial en Situaciones de Emergencia**
 
 ## **Resumen**  
-El proyecto tiene como objetivo desarrollar un **sistema avanzado** para la **detección y localización de personas** en situaciones de emergencia, con el consentimiento expreso de la persona. Este sistema optimiza la localización no solo mediante triangulación de señales y GPS, sino también utilizando **IA generativa** para procesar **descripciones de personas que llaman**, **referencias visuales del entorno**, y **pistas** proporcionadas durante las llamadas de emergencia. **Google Earth Engine** se integrará para acceder a **imágenes satelitales**, mientras que la **computación cuántica** permitirá **procesar múltiples fuentes de información en paralelo**, mejorando la precisión y eficiencia del sistema.
+El proyecto tiene como objetivo desarrollar un **sistema avanzado** para la **detección y localización de personas** en situaciones de emergencia, con el consentimiento expreso de la persona. Este sistema optimiza la localización no solo mediante **triangulación de señales y GPS de mutiples operadoras de telecomunicación**, sino también utilizando **IA generativa** para procesar **descripciones de personas que llaman**, **referencias visuales del entorno**, y **pistas** proporcionadas durante las llamadas de emergencia. **Google Earth Engine** se integrará para acceder a **imágenes satelitales**, mientras que la **computación cuántica** permitirá **procesar múltiples fuentes de información en paralelo**, mejorando la precisión y eficiencia del sistema.
 
 ## **Objetivos del Proyecto**
 
